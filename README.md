@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A passionate iOS developer from Poland</h3>
+<h3 align="center">A passionate iOS developer and full-time Junior Cybersecurity Consultant from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszadamczyk1&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszadamczyk1" /> </p>
 
-- 🔭 I’m currently working on **my own advanced To-do list app**
+<p>I am passionate about mobile programming and a big fan of Apple, so I chose to learn Swift as my main programming language </p> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 
 - 🌱 I’m currently learning **iOS development using Swift**
 

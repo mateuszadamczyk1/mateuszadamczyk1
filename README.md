@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/adamczykmateusz03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamczykmateusz03" height="60" width="80" /></a>
 </p>
 
-<p align="center">I am passionate about mobile programming and a big fan of Apple, so I chose to learn Swift as my main programming language </p> <div class = "swiftimg" ><a href="https://developer.apple.com/swift/" target="blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/> </a></div>
+<p align="center">I am passionate about mobile programming and a big fan of Apple, so I chose to learn Swift as my main programming language </p>  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/> 
 
 
 

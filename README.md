@@ -1,6 +1,6 @@
 <style>
   .swiftimg{
-    margin-left: auto;
+    margin-left: 50;
     margin-right: auto;
   }
 </style>
